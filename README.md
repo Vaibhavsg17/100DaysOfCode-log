@@ -1,7 +1,7 @@
 
 # Vaibhav Gangurde 
 
-## 100 Days Of Code
+## #100 Days Of Code
 
 
 ## Challenge & Commitment
@@ -17,17 +17,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
-## 1.
-### Day 1: January,10 2017 - Saturday
+## Day 1: January,10 2017 - Saturday
 
-**Project:**
-
-**Progress:**
+**Today's Progress:**
 
 **Thoughts:**
 
 **Link to Work:**
 
+---
 
----
----
