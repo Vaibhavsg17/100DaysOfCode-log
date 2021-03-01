@@ -23,7 +23,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Code Simple HTML Webpage with some inline styling.
 
 **Thoughts:** 
-- Great feeling! Play around vs code and read some web design articles on internet. coded for hour and competed basic structure of webpage.
+- Great feeling! Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
 
 **Link to Work:**
 
