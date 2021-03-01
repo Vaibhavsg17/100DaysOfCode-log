@@ -19,9 +19,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 ## Day 1: January,10 2017 - Saturday
 
-**Today's Progress:**
+**Today's Progress:** 1. Code Simple HTML Webpage with some inline styling.
 
-**Thoughts:**
+**Thoughts:** Great feeling! Play around vs code and read some web design articles on internet. coded for hour and competed basic structure of webpage.
 
 **Link to Work:**
 
