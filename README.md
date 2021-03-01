@@ -17,11 +17,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
-## Day 1: January,10 2017 - Saturday
+## Day 1: Monday, 1 March 2021
 
-**Today's Progress:** 1. Code Simple HTML Webpage with some inline styling.
+**Today's Progress:** 
+- Code Simple HTML Webpage with some inline styling.
 
-**Thoughts:** Great feeling! Play around vs code and read some web design articles on internet. coded for hour and competed basic structure of webpage.
+**Thoughts:** 
+- Great feeling! Play around vs code and read some web design articles on internet. coded for hour and competed basic structure of webpage.
 
 **Link to Work:**
 
