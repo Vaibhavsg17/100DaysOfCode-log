@@ -17,6 +17,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 # Code Log
 ---
+## 1. Simple HTML Webpage
 ## Day 1: Monday, 1 March 2021
 
 **Today's Progress:** 
