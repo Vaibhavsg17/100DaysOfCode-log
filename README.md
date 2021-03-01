@@ -9,37 +9,12 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Commitment:** *I will code daily for the next 100 days.*
 
+
 |  Start Date          | End Date             |
 | -------------        | ------------         |
 | Monday, 1 March 2021 | Tuesday, 8 June 2021 |
 
-## Goals
 
-- [x] Code daily
-- [x] Expand portfolio
-- [x] Hone my Git CLI skills
-- [x] Complete as many courses, classes, challenges, & certifications as possible
-- [x] Get established in Twitter dev community
-  - This has been awesome!
-  - Great support and encouragement from my Twitter family!
-  - Use [#100DaysOfCode](https://twitter.com/search?q=%23100DaysOfCode&src=tyah) hashtag.
-
-### Secondary Goals & Resources
-
-- [x] Complete as many [Code School courses](https://www.codeschool.com) as possible. These are highly focused, subject matter classes that can be completed in a week's time. **Completed 18 courses!**
-- [x] Got accepted into the [#GrowWithGoogle](https://twitter.com/search?q=%23GrowWithGoogle&src=tyah) Challenge Scholarship and will be doing the [#GoogleUdacityScholars](https://twitter.com/search?q=%23GoogleUdacityScholars&src=tyah) program as part of #100DaysOfCode Round Two!
-
-  <!--
-  - [ ] Complete [FCC Front End Development Certification](https://www.freecodecamp.com/james-priest "FCC Profile") program
-  - [ ] Complete [Udemy The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/ "The Web Developer Bootcamp by Colt Steele") certificate program
-  - [ ] Complete [Udemy JavaScript: Understanding the Weird Parts](https://www.udemy.com/understand-javascript "JavaScript: Understanding the Weird Parts by Anthony Alicia") certificate program
-  -->
-
-<!--
-- Considering...
-  - Maybe [Udacity's Front-End Web Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001?utm_medium=referral&utm_campaign=api) program
-  - Maybe [Coding Dojo's Full Stack Developer Bootcamp](http://www.codingdojo.com/web-development-accelerators)
--->
 # Code Log
 <!--
 ## 1.
