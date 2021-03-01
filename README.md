@@ -24,7 +24,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Code Simple HTML Webpage with some inline styling.
 
 **Thoughts:** 
-- Great feeling! Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
+- Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
 
 **Link to Work:**
 
