@@ -16,7 +16,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 # Code Log
+
 ---
+
 ## 2. Complete HTML Webpage
 ### Day 2: Tuesday, 2 March 2021
 
@@ -27,8 +29,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - The process was amazing and completed Webpage 😀
 
 **Link to Work:**
+
 ---
----
+
 ## 1. Simple HTML Webpage
 ### Day 1: Monday, 1 March 2021
 
@@ -39,5 +42,6 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
 
 **Link to Work:**
+
 ---
 
