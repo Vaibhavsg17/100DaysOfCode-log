@@ -18,7 +18,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 ## 2. Complete HTML Webpage
-## Day 2: Tuesday, 2 March 2021
+### Day 2: Tuesday, 2 March 2021
 
 **Today's Progress:** 
 - today I completed the Simple HTML webpage.
@@ -30,7 +30,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 ---
 ## 1. Simple HTML Webpage
-## Day 1: Monday, 1 March 2021
+### Day 1: Monday, 1 March 2021
 
 **Today's Progress:** 
 - Code Simple HTML Webpage with some inline styling.
