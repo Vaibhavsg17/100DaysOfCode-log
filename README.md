@@ -66,7 +66,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
 
-[![Screenshot](assets/images/sm_css-grid-app3.jpg)](assets/images/full-size/css-grid-app3.png)
+[![Screenshot](assets/images/Day1 simple page.png)](assets/images/full-size/css-grid-app3.png)
 
 **Link to Work:**
 
