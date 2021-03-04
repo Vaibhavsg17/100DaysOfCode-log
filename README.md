@@ -16,6 +16,31 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 # Code Log
+---
+
+## 4. CSS Animations 
+### Day 2: Thursday, 4 March 2021
+
+**Today's Progress:** 
+-  Done with FCC Basics of HTML and CSS.
+
+**Thoughts:** 
+- understand the basic concepts of HTML5 and CSS.
+
+**Link to Work:**
+
+---
+
+## 3. Basic's Of HTML and CSS 
+### Day 3: Wednesday, 3 March 2021
+
+**Today's Progress:** 
+-  Done with FCC Basics of HTML and CSS.
+
+**Thoughts:** 
+- understand the basic concepts of HTML5 and CSS.
+
+**Link to Work:**
 
 ---
 
@@ -26,7 +51,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 - today I completed the Simple HTML webpage.
 
 **Thoughts:** 
-- The process was amazing and completed Webpage 😀
+- The process was amazing and completed Webpage 😀.
 
 **Link to Work:**
 
