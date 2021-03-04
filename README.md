@@ -22,11 +22,10 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ### Day 4: Thursday, 4 March 2021
 
 **Today's Progress:** 
--  Done with FCC Basics of HTML and CSS.
+-  Learn CSS Animation.
 
 **Thoughts:** 
-- understand the basic concepts of HTML5 and CSS.
-
+- Process was little Difficult But enjoyed it.
 <!-- ![image of Day 4](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png) -->
 
 **Link to Work:**
