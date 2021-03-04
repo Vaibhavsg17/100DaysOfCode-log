@@ -27,6 +27,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - understand the basic concepts of HTML5 and CSS.
 
+<!-- ![image of Day 4](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png) -->
+
 **Link to Work:**
 
 ---
@@ -39,6 +41,9 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 **Thoughts:** 
 - understand the basic concepts of HTML5 and CSS.
+
+![image of Day 3-1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/day3-1-module%201%20completed.png)
+![image of Day 3-2](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day3-2-module%202%20completed.png)
 
 **Link to Work:**
 
@@ -53,6 +58,8 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - The process was amazing and completed Webpage 😀.
 
+![image of Day 2](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day2-Completed%20webpage.png)
+
 **Link to Work:**
 
 ---
@@ -66,7 +73,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
 
-![](100DaysOfCode-log/assets/images/Day1 simple page.png)
+![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
 
 **Link to Work:**
 
