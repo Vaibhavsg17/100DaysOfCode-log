@@ -19,7 +19,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 4. CSS Animations 
-### Day 2: Thursday, 4 March 2021
+### Day 4: Thursday, 4 March 2021
 
 **Today's Progress:** 
 -  Done with FCC Basics of HTML and CSS.
