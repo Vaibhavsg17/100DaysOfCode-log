@@ -18,6 +18,22 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 ---
 
+## 5. Applied Accessibility, Responsive Web Design Principles from FCC
+### Day 5: Thursday, 5 March 2021
+
+**Today's Progress:** 
+-  Completed Module 4 & 5 and Started with Tribute page.
+
+**Thoughts:** 
+- Process was little Difficult But enjoyed it.
+
+![image of Day 5-1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day%205-1%20-%20completed%20Module%204.png) 
+![image of Day 5-2](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day%205-2%20-%20completed%20Module%205.png)
+
+**Link to Work:**
+
+---
+
 ## 4. CSS Animations 
 ### Day 4: Thursday, 4 March 2021
 
