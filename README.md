@@ -16,6 +16,51 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 
 
 # Code Log
+<!-- ---
+## 0. Simple HTML Webpage
+### Day 0: Monday, 1 March 2021
+**Today's Progress:** 
+- abc
+**Thoughts:** 
+- abc
+![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
+**Link to Work:**
+ [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
+--- -->
+---
+
+## 7. Simple HTML Webpage
+### Day 7: Monday, 1 March 2021
+
+**Today's Progress:** 
+- Code Simple HTML Webpage with some inline styling.
+
+**Thoughts:** 
+- Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
+
+![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
+
+**Link to Work:**
+
+ [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
+ 
+---
+
+## 6. Simple HTML Webpage
+### Day 6: Monday, 1 March 2021
+
+**Today's Progress:** 
+- Code Simple HTML Webpage with some inline styling.
+
+**Thoughts:** 
+- Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
+
+![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
+
+**Link to Work:**
+
+ [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
+ 
 ---
 
 ## 5. Applied Accessibility, Responsive Web Design Principles from FCC
