@@ -27,6 +27,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
  [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
 --- -->
+---
 
 ## 8. ABC
 ### Day 8: Monday, 8 March 2021
