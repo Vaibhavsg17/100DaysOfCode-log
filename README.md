@@ -27,26 +27,38 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
  [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
 --- -->
----
 
-## 7. Simple HTML Webpage
-### Day 7: Sunday, 7 March 2021
+## 8. ABC
+### Day 8: Monday, 8 March 2021
 
 **Today's Progress:** 
-- Code Simple HTML Webpage with some inline styling.
+- abc
 
 **Thoughts:** 
-- Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
-
-![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
+- abc
 
 **Link to Work:**
 
- [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
+---
+
+## 7. CSS Flexbox, Done with Tribute page 
+### Day 7: Sunday, 7 March 2021
+
+**Today's Progress:** 
+- Learn More about CSS Flexbox and finish with tribute page 
+
+**Thoughts:** 
+- Finally Done first Project - Tribute page
+
+<!--![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png) -->
+
+**Link to Work:**
+
+<!-- [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage) -->
  
 ---
 
-## 6. Simple HTML Webpage
+## 6. CSS Flexbox, Coded for Tribute page
 ### Day 6: Saturday, 6 March 2021
 
 **Today's Progress:** 
@@ -55,11 +67,11 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Thoughts:** 
 - wow! Starting with first project.
 
-![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
+<!--![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)-->
 
 **Link to Work:**
 
- [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
+<!-- [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)-->
  
 ---
 
