@@ -30,7 +30,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 7. Simple HTML Webpage
-### Day 7: Monday, 1 March 2021
+### Day 7: Sunday, 7 March 2021
 
 **Today's Progress:** 
 - Code Simple HTML Webpage with some inline styling.
@@ -47,13 +47,13 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 6. Simple HTML Webpage
-### Day 6: Monday, 1 March 2021
+### Day 6: Saturday, 6 March 2021
 
 **Today's Progress:** 
-- Code Simple HTML Webpage with some inline styling.
+- Completed Module 6 from FCC and started coding for Tribute Page
 
 **Thoughts:** 
-- Glad to be starting this. Play around VS Code and read some web design articles on internet. code for hour and competed basic structure of webpage.
+- wow! Starting with first project.
 
 ![image of Day 1](https://github.com/Vaibhavsg17/100DaysOfCode-log/blob/main/assets/images/Day1%20simple%20page.png)
 
@@ -64,7 +64,7 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ---
 
 ## 5. Applied Accessibility, Responsive Web Design Principles from FCC
-### Day 5: Thursday, 5 March 2021
+### Day 5: Friday, 5 March 2021
 
 **Today's Progress:** 
 -  Completed Module 4 & 5 and Started with Tribute page.
