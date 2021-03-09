@@ -27,188 +27,118 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 **Link to Work:**
  [GitHub Repo for this project!](https://github.com/Vaibhavsg17/100DaysOfCode-log/tree/main/Simple-HTML-Webpage)
 --- -->
----
-
+<!-- ---
 ## 22. ABC
-### Day 22: Tuesday, 22 March 2021
-
+### Day 22: Tuesday, 22 March 2021 
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 21. ABC
 ### Day 21: Monday, 21 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 20. ABC
 ### Day 20: Sunday, 20 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 19. ABC
 ### Day 19: Saturday, 19 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 18. ABC
 ### Day  18: Friday,  18 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 17. ABC
 ### Day 17: Thursday, 17 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 16. ABC
 ### Day 16: Wednesday, 16 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 15. ABC
 ### Day 15: Tuesday, 15 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 14. ABC
 ### Day 14: Monday, 14 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 13. ABC
 ### Day 13: Sunday, 13 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 12. ABC
 ### Day 12: Saturday, 12 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 12. ABC
 ### Day 12: Friday, 12 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 11. ABC
 ### Day 11: Thursday, 11 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
 **Link to Work:**
-
 ---
-
 ## 10. ABC
 ### Day 10: Wednesday, 10 March 2021
-
 **Today's Progress:** 
 - abc
-
 **Thoughts:** 
 - abc
-
-**Link to Work:**
-
+**Link to Work:**-->
 ---
 
 ## 9. Survey Form 
